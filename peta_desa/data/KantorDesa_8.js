@@ -1,0 +1,1 @@
+var json_KantorDesa_8 = {"type":"FeatureCollection","name":"KantorDesa_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nama":"Kantor Kepala Desa Jatisaba","Kpala Desa":"Bu Endah","Desa":"Jatisaba"},"geometry":{"type":"Point","coordinates":[109.38586034321429,-7.397647756370827]}}]}
